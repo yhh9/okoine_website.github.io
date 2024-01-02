@@ -220,16 +220,6 @@ header ul li a
 	filter: invert (60%);
 }
 
-.ccircle
-{
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background: #1A0EDA;
-	  clip-path: circle(700px at right 900px);
-}
 
 #slogan
 {
