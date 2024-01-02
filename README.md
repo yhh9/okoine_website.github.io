@@ -1,2 +1,2 @@
 # okoine_website
-A website repository for okoine.cm
+A website repository for okoine.com
